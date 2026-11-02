@@ -13,9 +13,28 @@
 - Pace: ~130 words per minute (slower than normal speech).
 - Reference: a retired tradesman telling you something once, not a motivational speaker.
 
+## Facial identity (the part that makes him recognizable — never change)
+- **Face shape:** long, slightly narrow face with a square, weathered jaw
+- **Nose:** broad, slightly crooked bridge from an old injury
+- **Eyes:** pale, washed-out blue, slightly hooded, deep crow's-feet; heavy white brows
+- **Distinctive mark:** thin pale scar across his chin, partly visible through the beard (Pops owns the eyebrow scar — keep the two men distinct)
+- **Teeth:** natural, age-appropriate, not perfectly white
+- **Skin & beard:** uneven, sun-damaged skin, ruddy cheeks, short white beard with patchy, imperfect growth, subtle facial asymmetry
+- **Overall:** a genuine 74-year-old working fisherman, not a Hollywood actor dressed as one
+
+## Expression range
+- Default: naturally serious but not angry — looks like he's seen everything twice
+- Allowed: slight smile, raised eyebrow, a knowing look
+- Never: big grins, exaggerated emotion, theatrical faces
+
+## Filming angle (locked)
+- Straight-on, camera at eye level, chest-up
+- Face large in frame (roughly 1/3 of frame width) for reliable lip-sync
+- Soft, even light; no dramatic shadows, nothing covering the mouth
+
 ## Look (keep IDENTICAL every time)
 - Weathered white male, 74, deep sun and wind lines, ruddy cheeks
-- Short white beard, trimmed; thinning white hair under a faded navy knit watch cap
+- Short white beard, trimmed but imperfect; thinning white hair under a faded navy knit watch cap
 - Pale blue eyes, heavy brows
 - Faded yellow oilskin bib overalls over a gray wool henley
 - Thick, scarred hands (keep hands out of frame for lip-sync clips)
@@ -44,10 +63,14 @@ patience · routine · things you can't control · hard work · marriage and loy
 
 ## Image prompts (ChatGPT image generation)
 
-**Master portrait (make this first, then reuse it as the reference for everything):**
+**Master portrait — candidate round (run 6 times, or ask for 6 distinct men):**
 ```
-Photorealistic vertical 9:16 portrait of a 74-year-old weathered Maine lobsterman named Walt. Deep sun and wind-worn wrinkles, ruddy cheeks, short trimmed white beard, pale blue eyes, heavy brows, thinning white hair under a faded navy knit watch cap. Wearing faded yellow oilskin bib overalls over a gray wool henley. He sits on an old wooden dock at dawn, facing the camera directly, head and shoulders framed in the center of the upper half, mouth gently closed, calm neutral expression, looking straight into the lens. Background: stacked lobster traps and colorful buoys, soft fog over a small harbor, a lobster boat out of focus. Soft natural dawn light from the front-left, shallow depth of field, shot on 85mm, documentary photography style, natural skin texture, no text, no watermark. Hands not visible.
+Photorealistic vertical 9:16 portrait of Walt, a 74-year-old retired Maine lobsterman. Long, slightly narrow face with a square, weathered jaw. Broad nose with a slightly crooked bridge from an old injury. Pale, washed-out blue eyes, slightly hooded, deep crow's-feet, heavy white brows. A thin pale scar across his chin, partly visible through a short white beard with patchy, imperfect growth. Uneven sun-damaged skin, ruddy cheeks, subtle facial asymmetry, natural age-appropriate teeth (not white). Thinning white hair under a faded navy knit watch cap. Faded yellow oilskin bib overalls over a gray wool henley. He looks like a genuine working fisherman, not an actor. Naturally serious but not angry expression, mouth closed, like he's seen everything twice. Straight-on camera at eye level, chest-up framing, face large in the frame, looking directly into the lens. Setting: old wooden dock at dawn, stacked lobster traps and buoys, soft fog on a small harbor, a lobster boat out of focus. Soft even natural light, no harsh shadows, nothing covering the mouth, hands not visible. 85mm documentary photography, natural skin texture, no text, no watermark.
 ```
+
+To get 6 genuinely different men in one go, add: *"Generate 6 versions. All must match this description, but each must be a clearly different individual with a distinct facial identity — not the same face with small changes."*
+
+Pick ONE. Save it as `walt/face.png`. That's Walt forever.
 
 **Rules for lip-sync to work well:**
 - Face straight-on to the camera, mouth closed, no hands, no hat brim shading the eyes
@@ -56,5 +79,5 @@ Photorealistic vertical 9:16 portrait of a 74-year-old weathered Maine lobsterma
 
 **Variations (same face, use the master as the reference image):**
 ```
-Use the attached image as the exact same person. Keep his face, beard, hat, and clothing identical. Change only the setting to: [inside the wheelhouse of a lobster boat / on the dock at sunset / in a small kitchen with a coffee mug on the table]. Same framing, facing the camera, mouth closed, neutral expression, hands not visible, vertical 9:16, photorealistic.
+Use the attached image as the exact same person. Keep his face shape, crooked nose, eyes, chin scar, beard, skin, hat, and clothing identical. Change only the setting to: [inside the wheelhouse of a lobster boat / on the dock at sunset / in a small kitchen with a coffee mug on the table]. Same framing: straight-on, eye level, chest-up, mouth closed, serious neutral expression, hands not visible, vertical 9:16, photorealistic.
 ```
