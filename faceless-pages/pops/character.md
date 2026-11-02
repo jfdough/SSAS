@@ -12,6 +12,28 @@
 - Pace: ~150 words per minute, punchy — short sentence, beat, short sentence.
 - Reference: a corner man between rounds. Urgent but calm.
 
+## Facial identity (the part that makes him recognizable — never change)
+- **Face shape:** broad, square face with heavy cheekbones, a thick neck, slight jowls
+- **Nose:** flattened and wide, broken more than once, bridge pushed slightly to his right
+- **Ears:** a small cauliflower ear on the left side (old boxer's mark — his signature)
+- **Eyes:** dark brown, heavy-lidded, a slight squint like he's reading you; thickened scar tissue along the brow ridges
+- **Distinctive mark:** small scar splitting his left eyebrow (Walt owns the chin scar — keep the two men distinct)
+- **Hair:** gray flat-top, receding a little at the temples
+- **Mustache:** thick, gray, neatly trimmed ABOVE the upper lip (must not cover the lips — lip-sync needs them visible)
+- **Skin:** medium-brown, deep forehead lines, sun spots, gray stubble on cheeks and chin, subtle facial asymmetry
+- **Teeth:** natural, age-appropriate, not perfectly white
+- **Overall:** a real 72-year-old ex-fighter who still runs a gym, not an actor in costume
+
+## Expression range
+- Default: calm, serious, reading you — tough but obviously warm underneath
+- Allowed: slight smirk, a raised eyebrow, a quick tired smile
+- Never: shouting, big grins, theatrical anger
+
+## Filming angle (locked)
+- Straight-on, camera at eye level, chest-up
+- Face large in frame for reliable lip-sync
+- Warm but even light; no hard shadows over the eyes or mouth, nothing covering the mouth
+
 ## Look (keep IDENTICAL every time)
 - Puerto Rican man, 72, brown skin, deep lines, flattened boxer's nose, small scar through left eyebrow
 - Gray flat-top haircut, thick gray mustache
@@ -42,14 +64,18 @@ discipline · getting back up · fear · ego · being a father/man · consistenc
 
 ## Image prompts (ChatGPT image generation)
 
-**Master portrait:**
+**Master portrait — candidate round (ask for 6 distinct men):**
 ```
-Photorealistic vertical 9:16 portrait of a 72-year-old Puerto Rican boxing coach called Pops. Brown skin with deep lines, flattened boxer's nose, small scar through his left eyebrow, gray flat-top haircut, thick gray mustache, dark brown eyes with heavy lids and a knowing squint. Wearing a gray cotton sweatshirt with the sleeves cut off and a white towel over one shoulder, broad shoulders. He sits on a stool in an old boxing gym, facing the camera directly, head and shoulders framed in the center of the upper half, mouth closed, calm serious expression, looking straight into the lens. Background: a red heavy bag, worn ring ropes, peeling vintage fight posters, warm tungsten light, dust in the air, shallow depth of field. Shot on 85mm, documentary photography style, natural skin texture, no text, no logos, no watermark. Hands not visible.
+Photorealistic vertical 9:16 portrait of Pops, a 72-year-old Puerto Rican former boxer who has run an old boxing gym in North Philadelphia since 1979. Broad, square face with heavy cheekbones, thick neck, slight jowls. Flattened, wide nose broken more than once, the bridge pushed slightly to his right. A small cauliflower ear on his left side. Dark brown, heavy-lidded eyes with a slight knowing squint, thickened scar tissue along the brow ridges, and a small scar splitting his left eyebrow. Gray flat-top haircut, slightly receding at the temples. Thick gray mustache neatly trimmed above the upper lip, lips fully visible. Medium-brown skin with deep forehead lines, sun spots, gray stubble on cheeks and chin, subtle facial asymmetry, natural age-appropriate teeth. Broad shoulders, gray cotton sweatshirt with the sleeves cut off, a white towel over one shoulder. He looks like a real ex-fighter, not an actor. Calm, serious expression, mouth closed, like he is sizing you up but cares. Straight-on camera at eye level, chest-up framing, face large in the frame, looking directly into the lens. Setting: old gym with a red heavy bag, worn ring ropes, peeling vintage fight posters, dust in the air, out of focus. Warm but even light, no hard shadows on the eyes or mouth, nothing covering the mouth, hands not visible. 85mm documentary photography, natural skin texture, no text, no logos, no watermark.
+
+Generate 6 versions. All must match this description, but each must be a clearly different individual with a distinct facial identity — not the same face with small changes.
 ```
+
+Pick ONE. Save it as `pops/face.png`. That's Pops forever.
 
 **Rules for lip-sync:** same as Walt — straight-on, mouth closed, no hands, face ~1/3 of frame width, pick ONE and never change it.
 
 **Variations (use master as reference image):**
 ```
-Use the attached image as the exact same person. Keep his face, hair, mustache, scar, and clothing identical. Change only the setting to: [sitting on the ring apron / in the gym's small office with old trophies / outside the gym door at dawn on a Philly street]. Same framing, facing the camera, mouth closed, neutral expression, hands not visible, vertical 9:16, photorealistic.
+Use the attached image as the exact same person. Keep his face shape, broken nose, cauliflower ear, eyes, eyebrow scar, hair, mustache, skin, and clothing identical. Change only the setting to: [sitting on the ring apron / in the gym's small office with old trophies / outside the gym door at dawn on a Philly street]. Same framing, facing the camera, mouth closed, neutral expression, hands not visible, vertical 9:16, photorealistic.
 ```

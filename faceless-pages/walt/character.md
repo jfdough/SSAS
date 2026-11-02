@@ -72,6 +72,8 @@ To get 6 genuinely different men in one go, add: *"Generate 6 versions. All must
 
 Pick ONE. Save it as `walt/face.png`. That's Walt forever.
 
+**✅ LOCKED:** `walt/face.png` (chosen Nov 2026). As rendered, the chin scar sits just under the lower lip. Every future image of Walt uses this file as the reference.
+
 **Rules for lip-sync to work well:**
 - Face straight-on to the camera, mouth closed, no hands, no hat brim shading the eyes
 - Face should take up roughly 1/3 of the frame width
